@@ -3,9 +3,9 @@ import pandas as pd
 
 DB_CONFIG = {
     "host": "localhost",
-    "database": "spotychipi",  # <--- Corregido con el nombre de tu pgAdmin
+    "database": "spotychipi",  
     "user": "postgres",
-    "password": "",            # <--- Déjalo vacío por ahora, o pon tu contraseña si la sabes
+    "password": "",            
     "port": "5432"
 }
 
